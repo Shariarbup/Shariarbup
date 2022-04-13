@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Md. Al Shariar
 #### I am Professional Web Developer.
-![I am Professional Web Developer.]
 
 I am skilled at python Django framework (full stack), Java Spring boot(Full Stack), web scraping with python, html(PSD to html, responsive web page), CSS, Bootstrap, Vanilla JavaScript, jQuery, Java, C, C++, Version Controlling, Database ( MySQL, SQLite, PostgreSQL, Oracle) 
 
