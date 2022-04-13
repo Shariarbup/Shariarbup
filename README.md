@@ -10,7 +10,7 @@ Android game using java.
 
 Skills: JAVA / PYTHON / C / REACT / JS / HTML / CSS / WordPress(Elementor, Woo commerce) / MySQL / SQLite / PostgreSQL / Oracle
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working for a private IT Firm in Bangladesh. 
 - 🌱 I’m currently learning Java Spring Boot Framework 
 - 💬 Ask me about Web Development 
 
