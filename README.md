@@ -19,3 +19,5 @@ Skills: JAVA / PYTHON / C / REACT / JS / HTML / CSS / WordPress(Elementor, Woo c
 
 ![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
