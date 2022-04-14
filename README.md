@@ -8,8 +8,6 @@ I have interested in web development, problem-solving, data science, machine lea
 Experience in Developing python Django web application, java desktop application and
 Android game using java.
 
-Skills: JAVA / PYTHON / C / REACT / JS / HTML / CSS / WordPress(Elementor, Woo commerce) / MySQL / SQLite / PostgreSQL / Oracle
-
 # Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
