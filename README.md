@@ -27,6 +27,7 @@ Android game using java.
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Java Spring-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-ED8B00?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 # Tools:
