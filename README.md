@@ -60,4 +60,5 @@ Android game using java.
 # Visitors: 
 ![Visitor Count](https://profile-counter.glitch.me/{Shariarbup}/count.svg)
 
+<span style="color:red">**Happy coding!**<span>
 
