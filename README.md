@@ -49,7 +49,7 @@ Android game using java.
 </p>
 
 # Working Experience:
-- 🔭 I’m currently working for a private IT Firm in Bangladesh. 
+- 🔭 I’m currently open for Part-time work. 
 - 🌱 I’m currently learning Java Spring Boot Framework 
 - 💬 Ask me about Web Development 
 
@@ -61,11 +61,4 @@ Android game using java.
 ![Visitor Count](https://profile-counter.glitch.me/{Shariarbup}/count.svg)
 
 <span style="color:red">**Happy coding!**</span>
-$\color{#a83e32}{your-text-here}$
-
-\- list-1
-
-\- list-2
-
-\- list-3
 
