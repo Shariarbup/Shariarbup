@@ -62,7 +62,7 @@ Portfolio site: https://shariarbup.github.io/al-shariar/
 
 # Language used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shariarbup&layout=compact)
 
 # Visitors: 
 ![Visitor Count](https://profile-counter.glitch.me/{Shariarbup}/count.svg)
