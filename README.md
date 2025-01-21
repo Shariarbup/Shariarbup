@@ -65,14 +65,5 @@ Portfolio site: https://shariarbup.github.io/al-shariar/
 # Visitors: 
 ![Visitor Count](https://profile-counter.glitch.me/{Shariarbup}/count.svg)
 
-# Profile view
-![Profile Views](https://komarev.com/ghpvc/?username=Shariarbup)
-
-# Contribution Chart
-![Contribution Chart](https://github-contributions-chart.vercel.app/api?username=Shariarbup)
-
-# Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shariarbup&theme=github)
-
 <span style="color:red">**Happy coding!**</span>
 
