@@ -5,7 +5,7 @@ Craft web applications using Spring Boot and Angular (Frontend and Backend).
 Strong foundation in HTML, CSS, JavaScript 
 Passionate about problem-solving, learning about DSA, algorithms, design patterns, DBMS, System design, Microservice architecture, and DevOps (AWS, Azure)
 
-Portfolio site: https://shariarbup.github.io/al-shariar/
+### Portfolio site: https://shariarbup.github.io/al-shariar/
 
 # Programming Languages:
 <p>
@@ -37,6 +37,8 @@ Portfolio site: https://shariarbup.github.io/al-shariar/
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Intellij_Idea-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github_Desktop-%23575757.svg?&style=for-the-badge&logo=spring&logoColor=important" />
 </p>
 
 # Databases:
@@ -54,7 +56,7 @@ Portfolio site: https://shariarbup.github.io/al-shariar/
 
 # Follow Me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shariarbup)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shariarbup)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shariar058)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shariar0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC0XIb1eXWBNY1jXq_Rt9ZZA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Shariarbup)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shariarbup)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shariarbup)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shariar058)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shariar0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@alshariar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Shariarbup)  
 
 # Statistics:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shariarbup&show_icons=true&count_private=true)
@@ -65,15 +67,11 @@ Portfolio site: https://shariarbup.github.io/al-shariar/
 # Visitors: 
 ![Visitor Count](https://profile-counter.glitch.me/{Shariarbup}/count.svg)
 
-1- ![Contribution Chart](https://github-contributions-chart.vercel.app/api?username=Shariarbup) <br>
-2 - ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shariarbup&theme=github) <br>
-3- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shariarbup) <br>
-4 - ![GitHub Stars](https://img.shields.io/github/stars/Shariarbup/demo.blog.spring.boot.rest) <br>
-5 -  ![GitHub Forks](https://img.shields.io/github/forks/Shariarbup/demo.blog.spring.boot.rest) <br>
-6 - ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br>
-7 - ![Trophy](https://github-profile-trophy.vercel.app/?username=Shariarbup) <br>
-8 - ![Metrics](https://github.com/Shariarbup/Shariarbup/blob/main/github-metrics.svg) <br>
-9 - ![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shariarbup&repo=demo.blog.spring.boot.rest) <br>
+# Trophy List
+![Trophy](https://github-profile-trophy.vercel.app/?username=Shariarbup) <br>
+
+# Famous Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br>
 
 
 <span style="color:red">**Happy coding!**</span>
