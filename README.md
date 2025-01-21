@@ -1,12 +1,11 @@
 ### Hi there 👋, My name is Md. Al Shariar
 #### I am Professional Web Developer.
 
-I am skilled at Python Django framework (full stack), Java Spring Boot(Full Stack), web scraping with Python, HTML(PSD to html, responsive web page), CSS, Bootstrap, Vanilla JavaScript, jQuery, Java, C, C++, Version Controlling, Database ( MySQL, SQLite, PostgreSQL, Oracle) 
+Craft web applications using Spring Boot and Angular (Frontend and Backend). 
+Strong foundation in HTML, CSS, JavaScript 
+Passionate about problem-solving, learning about DSA, algorithms, design patterns, DBMS, System design, Microservice architecture, and DevOps (AWS, Azure)
 
-I have interested in web development, problem-solving, data science, machine learning, and artificial intelligence.
-
-Experience in Developing python Django web application, java desktop application and
-Android game using java.
+Portfolio site: https://shariarbup.github.io/al-shariar/
 
 # Programming Languages:
 <p>
