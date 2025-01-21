@@ -65,15 +65,15 @@ Portfolio site: https://shariarbup.github.io/al-shariar/
 # Visitors: 
 ![Visitor Count](https://profile-counter.glitch.me/{Shariarbup}/count.svg)
 
-1- ![Contribution Chart](https://github-contributions-chart.vercel.app/api?username=Shariarbup)
-2 - ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shariarbup&theme=github)
-3- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shariarbup)
-4 - ![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO)
-5 -  ![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO)
-6 - ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-7 - ![Trophy](https://github-profile-trophy.vercel.app/?username=Shariarbup)
-8 - ![Metrics](https://github.com/Shariarbup/Shariarbup/blob/main/github-metrics.svg)
-9 - ![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shariarbup&repo=demo.blog.spring.boot.rest)
+1- ![Contribution Chart](https://github-contributions-chart.vercel.app/api?username=Shariarbup) <br>
+2 - ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shariarbup&theme=github) <br>
+3- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shariarbup) <br>
+4 - ![GitHub Stars](https://img.shields.io/github/stars/Shariarbup/demo.blog.spring.boot.rest) <br>
+5 -  ![GitHub Forks](https://img.shields.io/github/forks/Shariarbup/demo.blog.spring.boot.rest) <br>
+6 - ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br>
+7 - ![Trophy](https://github-profile-trophy.vercel.app/?username=Shariarbup) <br>
+8 - ![Metrics](https://github.com/Shariarbup/Shariarbup/blob/main/github-metrics.svg) <br>
+9 - ![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shariarbup&repo=demo.blog.spring.boot.rest) <br>
 
 
 <span style="color:red">**Happy coding!**</span>
